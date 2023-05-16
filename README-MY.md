@@ -4,7 +4,7 @@
 <br>
 <img src="https://github.com/Aw8Club88/Address/blob/main/bm.png" alt="BM" width="100">
 
-**Selamat datang ke Platform Kasino Dalam Talian Aw8! Sila baca maklumat berikut untuk memastikan anda dapat mencari kami.**
+**Selamat datang ke Platform Kasino Dalam Talian Aw8! Sila baca maklumat berikut untuk memastikan anda dapat mencari kami.**<br>
 **Kerana entiti tertentu mungkin menyekat laman web kami, untuk mengelakkan kehilangan hubungan dengan kami, kami cadangkan anda untuk menandakan pautan ini.**
 
 URL baru yang boleh diakses:
@@ -38,7 +38,7 @@ Kami sarankan anda untuk memuat turun https://1.1.1.1/ dan gunakannya untuk meng
 <br><br><br>
 <img src="https://github.com/Aw8Club88/Address/blob/main/english.png" alt="EN" width="100">
 
-**Welcome to the Aw8 Online Casino Platform! Please read the following information to ensure you can locate us.**
+**Welcome to the Aw8 Online Casino Platform! Please read the following information to ensure you can locate us.**<br>
 **As certain entities might block our website, to avoid losing contact with us, we recommend you to bookmark this link.**
 
 New accessible URLs:
@@ -72,7 +72,7 @@ We recommend you to download https://1.1.1.1/ and use it to access our website.
 <br><br><br>
 <img src="https://github.com/Aw8Club88/Address/blob/main/chinese.png" alt="EN" width="100">
 
-**欢迎来到Aw8在线赌场平台！请阅读以下信息以确保您能找到我们。**
+**欢迎来到Aw8在线赌场平台！请阅读以下信息以确保您能找到我们。**<br>
 **由于某些单位可能会封锁我们的网站，为了避免失去与我们的联系，我们建议您收藏此链接。**
 
 新的可访问网址：
