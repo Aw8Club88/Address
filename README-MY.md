@@ -89,7 +89,7 @@ We recommend you to download https://1.1.1.1/ and use it to access our website.
 ------------------------------------------------
 
 请在您的浏览器中将此页面加入书签，防止失去我们的联系。<br>
-**由于某些单位可能会封锁我们的网站，为了避免失去与我们的联系，我们建议您收藏此链接，以便获取最新网址。**
+**由于某些单位可能会封锁我们的网站，为了避免失去与我们的联系，我们建议您收藏此链接，以确保您获得最新网址。**
 
 https://github.com/Aw8Club88/Address/blob/main/README-MY.md
 
