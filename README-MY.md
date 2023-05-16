@@ -1,6 +1,6 @@
 ![image](https://github.com/Aw8Club88/Address/blob/main/AW8.png)
 
-Bahasa Melayu
+*Bahasa Melayu
 
 **Selamat datang ke platform kasino dalam talian Aw8! Sila baca kandungan berikut untuk mengelakkan daripada tidak dapat mencari kami.**
 
@@ -35,7 +35,7 @@ Kami sarankan anda untuk memuat turun https://1.1.1.1/ dan gunakannya untuk meng
 
 ------------------------------------------------
 
-English
+*English
 
 **Welcome to the Aw8 online casino platform! Please read the following content to avoid not being able to find us.**
 
