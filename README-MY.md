@@ -8,11 +8,11 @@
 
 URL baru yang boleh diakses:
 
-[+] https://aw8.money
+[+]  [https://aw8.money/](https://www.aw8.money/ms-my/)
 
-[+] https://acewin.money
+[+] [https://acewin.money/](https://acewin.money/ms-my/)
 
-[+] https://aw8club.app/
+[+] [https://aw8club.app/](https://acewin.money/ms-my/)
 
 [+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/ms-my/home?affid=3564)
 
