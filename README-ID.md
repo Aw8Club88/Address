@@ -1,6 +1,6 @@
 ![image](https://github.com/Aw8Club88/Address/blob/main/AW8.png)
 
-#URL terbaru yang dapat diakses:
+URL terbaru yang dapat diakses:
 
 https://aw8.money
 
