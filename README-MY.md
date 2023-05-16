@@ -41,13 +41,13 @@ Kami sarankan anda untuk memuat turun https://1.1.1.1/ dan gunakannya untuk meng
 
 New accessible URLs:
 
-[+] https://aw8.money
+[+]  [https://aw8.money/](https://www.aw8.money/en-my/)
 
-[+] https://acewin.money
+[+] [https://acewin.money/](https://acewin.money/en-my/)
 
-[+] https://aw8club.app/
+[+] [https://aw8club.app/](https://acewin.money/en-my/)
 
-[+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/ms-my/home?affid=3564)
+[+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/en-my/home?affid=3564)
 
 [*] Must be accessed through HTTPS
 
