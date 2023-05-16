@@ -6,11 +6,11 @@
 
 URL ใหม่ที่สามารถเข้าถึงได้:
 
-[+] https://aw8.money
+[+]  [https://aw8.money/](https://www.aw8.money/th-th/)
 
-[+] https://acewin.money
+[+] [https://acewin.money/](https://acewin.money/th-th/)
 
-[+] https://aw8club.app/
+[+] [https://aw8club.app/](https://acewin.money/th-th/)
 
 [+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/th-th/home?affid=3564)
 
