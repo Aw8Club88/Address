@@ -33,7 +33,7 @@ aw8clubapp@proton.me
 Nota:
 Kami sarankan anda untuk memuat turun https://1.1.1.1/ dan gunakannya untuk mengakses laman web kami.
 
-------------------------------------------------
+
 
 * English
 
