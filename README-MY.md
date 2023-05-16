@@ -67,4 +67,36 @@ aw8clubapp@proton.me
 
 Note:
 We recommend you to download https://1.1.1.1/ and use it to access our website.
+<br><br><br>
+<img src="https://github.com/Aw8Club88/Address/blob/main/chinese.png" alt="EN" width="100">
 
+**欢迎来到Aw8在线赌场平台！请阅读以下内容，以防无法找到我们。**
+
+新的可访问网址：
+
+[+]  [https://aw8.money/](https://www.aw8.money/en-my/)
+
+[+] [https://acewin.money/](https://acewin.money/en-my/)
+
+[+] [https://aw8club.app/](https://acewin.money/en-my/)
+
+[+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/en-my/home?affid=3564)
+
+[*] 必须通过HTTPS访问
+
+------------------------------------------------
+
+请在您的浏览器中将此页面加入书签，防止失去我们的联系。
+
+https://github.com/Aw8Club88/Address/blob/main/README-ID.md
+
+------------------------------------------------
+
+如果您发现上述链接无法访问，请通过电子邮件联系我们：
+
+aw8clubapp@proton.me
+
+------------------------------------------------
+
+注意：
+我们建议您下载 https://1.1.1.1/ 并使用它来访问我们的网站。
