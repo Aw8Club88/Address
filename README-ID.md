@@ -26,7 +26,7 @@ Jika Anda menemukan tautan di atas tidak dapat diakses, silakan email kami di
 
 aw8clubapp@proton.me
 
-Atau whatsapp
+Atau hubungi whatsapp
 
 https://api.whatsapp.com/send/?phone=%2B6281264311751
 
