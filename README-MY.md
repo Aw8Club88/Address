@@ -35,6 +35,11 @@ Kami sarankan anda untuk memuat turun https://1.1.1.1/ dan gunakannya untuk meng
 
 
 
+
+
+
+![image](https://github.com/Aw8Club88/Address/blob/main/AW8.png)
+
 * English
 
 **Welcome to the Aw8 online casino platform! Please read the following content to avoid not being able to find us.**
