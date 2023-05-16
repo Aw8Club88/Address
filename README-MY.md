@@ -16,7 +16,7 @@ URL baru yang boleh diakses:
 
 Sila tandakan halaman ini di penjelajah web anda untuk mengelakkan kehilangan jejak kami.
 
-https://github.com/Aw8Club88/Address/blob/main/README-ID.md
+https://github.com/Aw8Club88/Address/blob/main/README-MY.md
 
 ------------------------------------------------
 
