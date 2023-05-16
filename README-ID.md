@@ -6,10 +6,6 @@ URL terbaru yang dapat diakses:
 
 [+] https://acewin.money
 
-[+] https://aw8.cash
-
-[+] https://aw8.ac
-
 [+] https://aw8club.app/
 
 [*] Harus diakses melalui HTTPS
