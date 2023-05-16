@@ -2,17 +2,17 @@
 
 URL terbaru yang dapat diakses:
 
-https://aw8.money
+[+] https://aw8.money
 
-https://acewin.money
+[+] https://acewin.money
 
-https://aw8.cash
+[+] https://aw8.cash
 
-https://aw8.ac
+[+] https://aw8.ac
 
-https://aw8club.app/
+[+] https://aw8club.app/
 
-* Harus diakses melalui HTTPS
+[*] Harus diakses melalui HTTPS
 
 ------------------------------------------------
 
