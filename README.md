@@ -6,9 +6,9 @@
 
 New accessible URLs:
 
-[+] https://aw8.money
+[+] https://aw8.money/
 
-[+] https://acewin.money
+[+] https://acewin.money/
 
 [+] https://aw8club.app/
 
