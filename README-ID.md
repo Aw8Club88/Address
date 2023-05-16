@@ -28,10 +28,6 @@ Jika Anda menemukan tautan di atas tidak dapat diakses, silakan email kami di
 
 aw8clubapp@proton.me
 
-Atau hubungi LiveChat
-
-https://direct.lc.chat/12114771/
-
 [*] Harap mencantumkan negara tempat tinggal Anda dan URL yang tidak dapat Anda akses dalam konten.
 
 ------------------------------------------------
