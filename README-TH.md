@@ -1,4 +1,6 @@
-![image](https://github.com/Aw8Club88/Address/blob/main/AW8.png)
+<div align="center">
+	<img src="https://github.com/Aw8Club88/Address/blob/main/AW8.png" alt="Editor" width="500">
+</div>
 
 **ยินดีต้อนรับสู่แพลตฟอร์มคาสิโนออนไลน์ Aw8! โปรดอ่านเนื้อหาต่อไปนี้เพื่อป้องกันไม่สามารถหาเราได้**
 
