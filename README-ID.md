@@ -1,4 +1,6 @@
-![image](https://github.com/Aw8Club88/Address/blob/main/AW8.png)
+<div align="center">
+	<img src="https://github.com/Aw8Club88/Address/blob/main/AW8.png" alt="Editor" width="500">
+</div>
 
 **Selamat datang di platform kasino online Aw8! Harap baca informasi berikut untuk menghindari kehilangan kami.**
 
