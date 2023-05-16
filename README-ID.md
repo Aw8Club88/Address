@@ -1,6 +1,6 @@
 ![image](https://github.com/Aw8Club88/Address/blob/main/AW8.png)
 
-**Selamat datang di platform kasino online Aw8! Harap baca informasi berikut untuk menghindari kehilangan kami.
+**Selamat datang di platform kasino online Aw8! Harap baca informasi berikut untuk menghindari kehilangan kami.**
 
 URL terbaru yang dapat diakses:
 
