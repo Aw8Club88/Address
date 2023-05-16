@@ -1,6 +1,6 @@
 ![image](https://github.com/Aw8Club88/Address/blob/main/AW8.png)
 
-URL terbaru yang dapat diakses:
+New accessible URLs:
 
 [+] https://aw8.money
 
@@ -10,25 +10,21 @@ URL terbaru yang dapat diakses:
 
 [+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/ms-my/home?affid=3564)
 
-[*] Harus diakses melalui HTTPS
+[*] Must be accessed through HTTPS
 
 ------------------------------------------------
 
-Silakan tandai halaman ini di peramban Anda untuk mencegah kehilangan jejak kami.
+Please bookmark this page in your browser to prevent losing our trace.
 
 https://github.com/Aw8Club88/Address/blob/main/README-ID.md
 
 ------------------------------------------------
 
-Jika Anda menemukan tautan di atas tidak dapat diakses, silakan email kami di
+If you find the above links are inaccessible, please email us at
 
 aw8clubapp@proton.me
 
-Atau hubungi whatsapp
-
-https://api.whatsapp.com/send/?phone=%2B6281264311751
-
 ------------------------------------------------
 
-Catatan:
-Kami menyarankan Anda untuk mengunduh https://1.1.1.1/ dan menggunakannya untuk mengakses situs web kami.
+Note:
+We recommend you to download https://1.1.1.1/ and use it to access our website.
