@@ -55,7 +55,7 @@ New accessible URLs:
 
 Please bookmark this page in your browser to prevent losing our trace.
 
-https://github.com/Aw8Club88/Address/blob/main/README-ID.md
+https://github.com/Aw8Club88/Address/blob/main/README-MY.md
 
 ------------------------------------------------
 
@@ -74,13 +74,13 @@ We recommend you to download https://1.1.1.1/ and use it to access our website.
 
 新的可访问网址：
 
-[+]  [https://aw8.money/](https://www.aw8.money/en-my/)
+[+]  [https://aw8.money/](https://www.aw8.money/zh-my/)
 
-[+] [https://acewin.money/](https://acewin.money/en-my/)
+[+] [https://acewin.money/](https://acewin.money/zh-my/)
 
-[+] [https://aw8club.app/](https://acewin.money/en-my/)
+[+] [https://aw8club.app/](https://acewin.money/zh-my/)
 
-[+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/en-my/home?affid=3564)
+[+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/zh-my/home?affid=3564)
 
 [*] 必须通过HTTPS访问
 
@@ -88,7 +88,7 @@ We recommend you to download https://1.1.1.1/ and use it to access our website.
 
 请在您的浏览器中将此页面加入书签，防止失去我们的联系。
 
-https://github.com/Aw8Club88/Address/blob/main/README-ID.md
+https://github.com/Aw8Club88/Address/blob/main/README-MY.md
 
 ------------------------------------------------
 
