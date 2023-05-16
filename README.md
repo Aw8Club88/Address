@@ -18,7 +18,7 @@ https://aw8club.app/
 
 Please bookmark this page in your browser to prevent losing track of us.
 
-https://github.com/Aw8Club88/Address
+https://github.com/Aw8Club88/Address/blob/main/README-ID.md
 
 ------------------------------------------------
 
