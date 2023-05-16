@@ -31,6 +31,8 @@ Jika anda mendapati pautan di atas tidak dapat diakses, sila email kami di
 
 aw8clubapp@proton.me
 
+[*] Sila nyatakan negara kediaman anda dalam kandungan.
+
 ------------------------------------------------
 
 Nota:
@@ -65,6 +67,8 @@ If you find the above links are inaccessible, please email us at
 
 aw8clubapp@proton.me
 
+[*] Please note your country of residence in the content.
+
 ------------------------------------------------
 
 Note:
@@ -98,6 +102,8 @@ https://github.com/Aw8Club88/Address/blob/main/README-MY.md
 如果您发现上述链接无法访问，请通过电子邮件联系我们：
 
 aw8clubapp@proton.me
+
+[*] 请在内容里备注您所在的国家。
 
 ------------------------------------------------
 
