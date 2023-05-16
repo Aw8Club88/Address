@@ -3,7 +3,6 @@
 </div>
 
 **Selamat datang di platform kasino online Aw8! Harap baca informasi berikut untuk memastikan Anda dapat menemukan kami.**<br>
-**Karena beberapa organisasi mungkin akan memblokir situs web kami, untuk menghindari kehilangan kontak dengan kami, kami sarankan Anda untuk membookmark tautan ini.**
 
 URL terbaru yang dapat diakses:
 
@@ -19,7 +18,8 @@ URL terbaru yang dapat diakses:
 
 ------------------------------------------------
 
-Silakan tandai halaman ini di peramban Anda untuk mencegah kehilangan jejak kami.
+Silakan tandai halaman ini di peramban Anda untuk mencegah kehilangan jejak kami.<br>
+**Karena beberapa organisasi mungkin akan memblokir situs web kami, untuk menghindari kehilangan kontak dengan kami, kami sarankan Anda untuk membookmark tautan ini.**
 
 https://github.com/Aw8Club88/Address/blob/main/README-ID.md
 
