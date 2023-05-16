@@ -33,6 +33,8 @@ Atau hubungi whatsapp
 
 https://api.whatsapp.com/send/?phone=%2B6281264311751
 
+[*] Harap mencantumkan negara tempat tinggal Anda dan URL yang tidak dapat Anda akses dalam konten.
+
 ------------------------------------------------
 
 Catatan:
