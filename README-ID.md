@@ -18,7 +18,6 @@ URL terbaru yang dapat diakses:
 
 ------------------------------------------------
 
-Silakan tandai halaman ini di peramban Anda untuk mencegah kehilangan jejak kami.<br>
 **[*] Karena beberapa organisasi mungkin akan memblokir situs web kami, kami menyarankan Anda untuk membookmark tautan ini untuk memastikan Anda mendapatkan alamat web terbaru kami.**
 
 https://github.com/Aw8Club88/Address/blob/main/README-ID.md
