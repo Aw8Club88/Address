@@ -10,7 +10,7 @@ https://aw8.ac
 
 https://aw8club.app/
 
-* Must be accessed via HTTPS *
+* Must be accessed via HTTPS
 
 ------------------------------------------------
 
