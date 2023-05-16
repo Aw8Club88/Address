@@ -21,7 +21,7 @@ URL baru yang boleh diakses:
 ------------------------------------------------
 
 Sila tandakan halaman ini di penjelajah web anda untuk mengelakkan kehilangan jejak kami.<br>
-**Kerana beberapa organisasi mungkin akan menyekat laman web kami, kami cadangkan anda untuk menyimpan pautan ini untuk memastikan anda mendapatkan alamat web terkini kami.**
+**[*] Kerana beberapa organisasi mungkin akan menyekat laman web kami, kami cadangkan anda untuk menyimpan pautan ini untuk memastikan anda mendapatkan alamat web terkini kami.**
 
 https://github.com/Aw8Club88/Address/blob/main/README-MY.md
 
@@ -38,7 +38,7 @@ Kami sarankan anda untuk memuat turun https://1.1.1.1/ dan gunakannya untuk meng
 <br><br><br>
 <img src="https://github.com/Aw8Club88/Address/blob/main/english.png" alt="EN" width="100">
 
-**Welcome to the Aw8 online casino platform! Please read the following information to ensure you can find us.**<br>
+**[*] Welcome to the Aw8 online casino platform! Please read the following information to ensure you can find us.**<br>
 
 New accessible URLs:
 
@@ -55,7 +55,7 @@ New accessible URLs:
 ------------------------------------------------
 
 Please bookmark this page in your browser to prevent losing our trace.<br>
-**As some organizations may block our website, we suggest you bookmark this link to ensure you get our latest web address.**
+**[*] As some organizations may block our website, we suggest you bookmark this link to ensure you get our latest web address.**
 
 https://github.com/Aw8Club88/Address/blob/main/README-MY.md
 
@@ -89,7 +89,7 @@ We recommend you to download https://1.1.1.1/ and use it to access our website.
 ------------------------------------------------
 
 请在您的浏览器中将此页面加入书签，防止失去我们的联系。<br>
-**由于某些单位可能会封锁我们的网站，为了避免失去与我们的联系，我们建议您收藏此链接，以确保您获得最新网址。**
+**[*] 由于某些单位可能会封锁我们的网站，为了避免失去与我们的联系，我们建议您收藏此链接，以确保您获得最新网址。**
 
 https://github.com/Aw8Club88/Address/blob/main/README-MY.md
 
