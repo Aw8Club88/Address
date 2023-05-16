@@ -8,6 +8,8 @@ URL terbaru yang dapat diakses:
 
 [+] https://aw8club.app/
 
+[+] https://15.235.136.132:29292/
+
 [*] Harus diakses melalui HTTPS
 
 ------------------------------------------------
