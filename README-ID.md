@@ -18,7 +18,7 @@ https://aw8club.app/
 
 Silakan tandai halaman ini di peramban Anda untuk mencegah kehilangan jejak kami.
 
-https://github.com/Aw8Club88/Address
+https://github.com/Aw8Club88/Address/blob/main/README-ID.md
 
 ------------------------------------------------
 
