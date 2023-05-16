@@ -1,5 +1,7 @@
 ![image](https://github.com/Aw8Club88/Address/blob/main/AW8.png)
 
+**Selamat datang ke platform kasino dalam talian Aw8! Sila baca kandungan berikut untuk mengelakkan daripada tidak dapat mencari kami.**
+
 URL baru yang boleh diakses:
 
 [+] https://aw8.money
