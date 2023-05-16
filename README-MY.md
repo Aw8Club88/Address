@@ -34,7 +34,7 @@ aw8clubapp@proton.me
 
 Nota:
 Kami sarankan anda untuk memuat turun https://1.1.1.1/ dan gunakannya untuk mengakses laman web kami.
-<br><br>
+<br><br><br>
 <img src="https://github.com/Aw8Club88/Address/blob/main/english.png" alt="EN" width="100">
 
 **Welcome to the Aw8 online casino platform! Please read the following content to avoid not being able to find us.**
