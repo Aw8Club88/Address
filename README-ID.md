@@ -2,8 +2,8 @@
 	<img src="https://github.com/Aw8Club88/Address/blob/main/AW8.png" alt="Editor" width="500">
 </div>
 
-**Selamat datang di Platform Kasino Online Aw8! Silakan baca informasi berikut untuk memastikan Anda dapat menemukan kami.**<br>
-**Karena beberapa entitas mungkin memblokir situs web kami, untuk menghindari kehilangan kontak dengan kami, kami sarankan Anda untuk mem-bookmark tautan ini.**
+**Selamat datang di platform kasino online Aw8! Harap baca informasi berikut untuk memastikan Anda dapat menemukan kami.**<br>
+**Karena beberapa organisasi mungkin akan memblokir situs web kami, untuk menghindari kehilangan kontak dengan kami, kami sarankan Anda untuk membookmark tautan ini.**
 
 URL terbaru yang dapat diakses:
 
