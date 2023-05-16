@@ -21,7 +21,7 @@ URL baru yang boleh diakses:
 ------------------------------------------------
 
 Sila tandakan halaman ini di penjelajah web anda untuk mengelakkan kehilangan jejak kami.<br>
-**Kerana beberapa entiti mungkin akan menyekat laman web kami, kami cadangkan anda untuk menyimpan pautan ini untuk memastikan anda mendapatkan alamat web terkini kami.**
+**Kerana beberapa organisasi mungkin akan menyekat laman web kami, kami cadangkan anda untuk menyimpan pautan ini untuk memastikan anda mendapatkan alamat web terkini kami.**
 
 https://github.com/Aw8Club88/Address/blob/main/README-MY.md
 
@@ -55,7 +55,7 @@ New accessible URLs:
 ------------------------------------------------
 
 Please bookmark this page in your browser to prevent losing our trace.<br>
-**Since some organizations might block our website, to avoid losing contact with us, we recommend that you bookmark this link.**
+**As some organizations may block our website, we suggest you bookmark this link to ensure you get our latest web address.**
 
 https://github.com/Aw8Club88/Address/blob/main/README-MY.md
 
