@@ -10,7 +10,7 @@ URL terbaru yang dapat diakses:
 
 [+] [https://acewin.money/](https://acewin.money/id-id/)
 
-[+] [https://aw8club.app/](https://acewin.money/id-id/)
+[+] [https://aw8club.app/](https://aw8club.app/id-id/)
 
 [+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/id-id/home?affid=3564)
 
