@@ -12,7 +12,7 @@ New accessible URLs:
 
 [+] https://aw8club.app/
 
-[+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/ms-my/home?affid=3564)
+[+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/home?affid=3564)
 
 [*] Must be accessed through HTTPS
 
@@ -20,7 +20,7 @@ New accessible URLs:
 
 Please bookmark this page in your browser to prevent losing our trace.
 
-https://github.com/Aw8Club88/Address/blob/main/README-ID.md
+https://github.com/Aw8Club88/Address
 
 ------------------------------------------------
 
