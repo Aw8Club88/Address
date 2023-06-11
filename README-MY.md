@@ -14,7 +14,7 @@ URL baru yang boleh diakses:
 
 [+] [https://aw8club.app/](https://acewin.money/ms-my/)
 
-[+] [https://15.235.136.132:29292/](https://15.235.136.132:29292/ms-my/home?affid=3564)
+[+] [https://15.235.136.133:1433/](https://15.235.136.133:1433/)
 
 [*] Mesti diakses melalui HTTPS
 
