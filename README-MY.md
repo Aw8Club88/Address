@@ -23,7 +23,7 @@ URL baru yang boleh diakses:
 
 [+]  [https://jomcuci88.com/](https://jomcuci88.com/#home)
 
-[+]  [https://15.235.136.134:1433/#home](https://15.235.136.134:1433/#home)
+[+]  [https://15.235.136.134:1433/](https://15.235.136.134:1433/#home)
 
 [*] Mesti diakses melalui HTTPS
 
@@ -72,7 +72,7 @@ New accessible URLs:
 
 [+]  [https://jomcuci88.com/](https://jomcuci88.com/#home)
 
-[+]  [https://15.235.136.134:1433/#home](https://15.235.136.134:1433/#home)
+[+]  [https://15.235.136.134:1433/](https://15.235.136.134:1433/#home)
 
 [*] Must be accessed through HTTPS
 
@@ -121,7 +121,7 @@ We recommend you to download https://1.1.1.1/ and use it to access our website.
 
 [+]  [https://jomcuci88.com/](https://jomcuci88.com/#home)
 
-[+]  [https://15.235.136.134:1433/#home](https://15.235.136.134:1433/#home)
+[+]  [https://15.235.136.134:1433/](https://15.235.136.134:1433/#home)
 
 [*] 必须通过HTTPS访问
 
