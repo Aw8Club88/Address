@@ -1,6 +1,6 @@
 <img src="https://github.com/Aw8Club88/Address/blob/main/bm.png" alt="BM" width="100">
 
-**Selamat datang ke platform kasino dalam talian Aw8! Sila baca maklumat berikut untuk memastikan anda dapat mencari kami.**<br>
+**Selamat datang ke platform kasino dalam talian Aw8 & Jomcuci88! Sila baca maklumat berikut untuk memastikan anda dapat mencari kami.**<br>
 
 URL baru yang boleh diakses:
 
@@ -46,7 +46,7 @@ Kami sarankan anda untuk memuat turun https://1.1.1.1/ dan gunakannya untuk meng
 <br><br><br>
 <img src="https://github.com/Aw8Club88/Address/blob/main/english.png" alt="EN" width="100">
 
-**[*] Welcome to the Aw8 online casino platform! Please read the following information to ensure you can find us.**<br>
+**[*] Welcome to the Aw8 & Jomcuci88 online casino platform! Please read the following information to ensure you can find us.**<br>
 
 New accessible URLs:
 
@@ -92,7 +92,7 @@ We recommend you to download https://1.1.1.1/ and use it to access our website.
 <br><br><br>
 <img src="https://github.com/Aw8Club88/Address/blob/main/chinese.png" alt="EN" width="100">
 
-**欢迎来到Aw8在线赌场平台！请阅读以下信息以确保您能找到我们。**<br>
+**欢迎来到Aw8 & Jomcuci88在线赌场平台！请阅读以下信息以确保您能找到我们。**<br>
 
 新的可访问网址：
 
