@@ -1,14 +1,12 @@
-<div align="center">
-	<img src="https://github.com/Aw8Club88/Address/blob/main/AW8.png" alt="Editor" width="500">
-</div>
-<br>
 <img src="https://github.com/Aw8Club88/Address/blob/main/bm.png" alt="BM" width="100">
 
 **Selamat datang ke platform kasino dalam talian Aw8! Sila baca maklumat berikut untuk memastikan anda dapat mencari kami.**<br>
 
 URL baru yang boleh diakses:
 
-AW8
+<div align="center">
+	<img src="https://github.com/Aw8Club88/Address/blob/main/AW8.png" alt="Editor" width="500">
+</div>
 
 [+]  [https://aw8.money/](https://www.aw8.money/ms-my/)
 
@@ -18,7 +16,9 @@ AW8
 
 [+] [https://15.235.136.133:1433/](https://15.235.136.133:1433/ms-my/)
 
-Jomcuci88
+<div align="center">
+	<img src="https://github.com/Aw8Club88/Address/blob/main/jomcuci_logo.png" alt="Editor" width="500">
+</div>
 
 [+]  [https://jomcuci88.com/](https://jomcuci88.com/#home)
 
