@@ -16,11 +16,11 @@ AW8
 
 [+] [https://aw8club.app/](https://acewin.money/ms-my/)
 
-[+] [https://15.235.136.133:1433/](https://15.235.136.133:1433/)
+[+] [https://15.235.136.133:1433/](https://15.235.136.133:1433/ms-my/)
 
 Jomcuci88
 
-[+]  [https://jomcuci88.com/](https://jomcuci88.com/)
+[+]  [https://jomcuci88.com/](https://jomcuci88.com/#home)
 
 [*] Mesti diakses melalui HTTPS
 
@@ -58,11 +58,11 @@ AW8
 
 [+] [https://aw8club.app/](https://acewin.money/ms-my/)
 
-[+] [https://15.235.136.133:1433/](https://15.235.136.133:1433/)
+[+] [https://15.235.136.133:1433/](https://15.235.136.133:1433/ms-my/)
 
 Jomcuci88
 
-[+]  [https://jomcuci88.com/](https://jomcuci88.com/)
+[+]  [https://jomcuci88.com/](https://jomcuci88.com/#home)
 
 [*] Must be accessed through HTTPS
 
@@ -100,11 +100,11 @@ AW8
 
 [+] [https://aw8club.app/](https://acewin.money/ms-my/)
 
-[+] [https://15.235.136.133:1433/](https://15.235.136.133:1433/)
+[+] [https://15.235.136.133:1433/](https://15.235.136.133:1433/ms-my/)
 
 Jomcuci88
 
-[+]  [https://jomcuci88.com/](https://jomcuci88.com/)
+[+]  [https://jomcuci88.com/](https://jomcuci88.com/#home)
 
 [*] 必须通过HTTPS访问
 
