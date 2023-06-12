@@ -5,7 +5,7 @@
 URL baru yang boleh diakses:
 
 <div align="center">
-	<img src="https://github.com/Aw8Club88/Address/blob/main/AW8.png" alt="Editor" width="500">
+	<img src="https://github.com/Aw8Club88/Address/blob/main/AW8.png" alt="Editor" width="200">
 </div>
 
 [+]  [https://aw8.money/](https://www.aw8.money/ms-my/)
@@ -17,7 +17,7 @@ URL baru yang boleh diakses:
 [+] [https://15.235.136.133:1433/](https://15.235.136.133:1433/ms-my/)
 
 <div align="center">
-	<img src="https://github.com/Aw8Club88/Address/blob/main/jomcuci_logo.png" alt="Editor" width="500">
+	<img src="https://github.com/Aw8Club88/Address/blob/main/jomcuci_logo.png" alt="Editor" width="200">
 </div>
 
 [+]  [https://jomcuci88.com/](https://jomcuci88.com/#home)
