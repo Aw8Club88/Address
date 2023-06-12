@@ -50,7 +50,9 @@ Kami sarankan anda untuk memuat turun https://1.1.1.1/ dan gunakannya untuk meng
 
 New accessible URLs:
 
-AW8
+<div align="center">
+	<img src="https://github.com/Aw8Club88/Address/blob/main/AW8.png" alt="Editor" width="200">
+</div>
 
 [+]  [https://aw8.money/](https://www.aw8.money/ms-my/)
 
@@ -60,7 +62,9 @@ AW8
 
 [+] [https://15.235.136.133:1433/](https://15.235.136.133:1433/ms-my/)
 
-Jomcuci88
+<div align="center">
+	<img src="https://github.com/Aw8Club88/Address/blob/main/jomcuci_logo.png" alt="Editor" width="180">
+</div>
 
 [+]  [https://jomcuci88.com/](https://jomcuci88.com/#home)
 
@@ -92,7 +96,9 @@ We recommend you to download https://1.1.1.1/ and use it to access our website.
 
 新的可访问网址：
 
-AW8
+<div align="center">
+	<img src="https://github.com/Aw8Club88/Address/blob/main/AW8.png" alt="Editor" width="200">
+</div>
 
 [+]  [https://aw8.money/](https://www.aw8.money/ms-my/)
 
@@ -102,7 +108,9 @@ AW8
 
 [+] [https://15.235.136.133:1433/](https://15.235.136.133:1433/ms-my/)
 
-Jomcuci88
+<div align="center">
+	<img src="https://github.com/Aw8Club88/Address/blob/main/jomcuci_logo.png" alt="Editor" width="180">
+</div>
 
 [+]  [https://jomcuci88.com/](https://jomcuci88.com/#home)
 
