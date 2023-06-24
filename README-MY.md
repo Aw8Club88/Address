@@ -21,7 +21,13 @@ URL baru yang boleh diakses:
 	<img src="https://github.com/Aw8Club88/Address/blob/main/jomcuci_logo.png" alt="Editor" width="180">
 </div>
 
-[+]  [https://jomcuci88.com/](https://jomcuci88.com/#home)
+[+]  [https://jom.casino/](https://jom.casino/#home)
+
+[+]  [https://jomcuci.money/](https://jomcuci.money/#home)
+
+[+]  [https://jom.money/](https://jom.money/#home)
+
+[+]  [https://jomcuci.casino/](https://jomcuci.casino/#home)
 
 [+]  [https://15.235.136.134:1433/](https://15.235.136.134:1433/#home)
 
